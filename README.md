@@ -1,7 +1,7 @@
 ### <div align="center">I'm Jon, a full stack developer.</div>  
   
 
-- 🌱 I’m currently learning MongoDB and Next.js  
+- 🌱 I’m currently learning MongoDB
   
 
 - ⚡ Fun fact: I'm a helicopter pilot 🚁  
