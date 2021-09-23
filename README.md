@@ -1,7 +1,7 @@
-### <div align="center">I'm Jon, a full stack developer.</div>
+### <div align="center">I'm Jon, a software developer.</div>
 
 
-- 🌱 I’m currently learning MongoDB and Docker.
+- 🌱 I’m currently learning as much as I can.
 
 
 - ⚡ Fun fact: I'm a helicopter pilot 🚁
